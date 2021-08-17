@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anugrah3199
+- 👋 Hi, I’m Anugrah
 - 👀 I’m interested in web Development, UI design.
 - 🌱 I’m currently learning javaScript, Data Structures and algorithms.
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/anugrah-dixit-a95a62197/">linkedin</a>, Gmail - anugrahdixit10@gmail.com
